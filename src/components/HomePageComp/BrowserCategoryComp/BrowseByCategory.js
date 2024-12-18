@@ -16,7 +16,7 @@ import ProductCard from "../FlashSalesComp/ProductCard";
 const categories = [
   { name: "Phones", icon: <FaMobileAlt /> },
   { name: "Computers", icon: <FaDesktop /> },
-  { name: "SmartWatch", icon: <BsSmartwatch /> },
+  { name: "Watches", icon: <BsSmartwatch /> },
   { name: "Cameras", icon: <FaCamera /> },
   { name: "HeadPhones", icon: <FaHeadphones /> },
   { name: "Gaming", icon: <FaGamepad /> },
